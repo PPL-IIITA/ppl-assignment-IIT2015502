@@ -1,0 +1,13 @@
+Danny,7,100,8,6,miser
+
+Jake,4,80,5,6,generous
+
+Marcus,5,0,5,5,geek
+
+Bill,2,30,4,5,miser
+
+Kyle,7,60,5,4,geek
+
+Bambino,10,80,9,7,geek
+
+Jessy,8,80,8,8,generous
