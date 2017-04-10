@@ -1,0 +1,6 @@
+import java.io.*;
+import java.util.*;
+public class q7 extends q2 { 
+	public q7() throws IOException {}
+	public static void main(String args[]) throws IOException {q7 obj = new q7();}
+}
