@@ -1,0 +1,9 @@
+Malkova,1,1,1,most rich,desparate
+
+Ames,3,3,3,most rich,normal
+
+leone,5,5,5,most intelligent,choosy
+
+sasha,6,6,6,most attractive,normal
+
+Kendra,8,8,8,most intelligent,normal
