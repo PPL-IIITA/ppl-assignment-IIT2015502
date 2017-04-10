@@ -1,0 +1,16 @@
+import java.io.*;
+import java.util.*;
+public class Custom{
+	public void display(Boys []b, Girls []g)
+	{
+		int blen = b.length;int glen = g.length;
+		int min = (glen > blen)? blen : glen;
+		Scanner take = new Scanner(System.in);
+		System.out.println("Enter k from 1 to "+min);
+		int k = take.nextInt();k = (k>min)?min:k;
+		System.out.println("\nk best boys are:");
+		for (int i=0; i<min; i++) System.out.println(b[min-1-i].ne);
+		System.out.println("\nk best girls are:");
+		for (int i=0; i<min; i++) System.out.println(g[min-1-i].ne);
+	}
+}
